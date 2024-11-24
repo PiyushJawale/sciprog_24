@@ -1,0 +1,90 @@
+commit 1d2723e38d60b5d2307fb98769127a4c06c0ed84
+Author: Piyush Jawale <it.a.41.piyush.jawale@gmail.com>
+Date:   Sun Nov 24 15:33:51 2024 +0000
+
+    Deleted Uncessary File
+
+commit 7a9aa3ca4d724f9592a755b4cb3288a7ed90f921
+Author: Piyush Jawale <it.a.41.piyush.jawale@gmail.com>
+Date:   Sun Nov 24 15:28:56 2024 +0000
+
+    Code for Practical02
+
+commit e229f915bf84f576527806557c14cb2701848bf5
+Author: Piyush Jawale <it.a.41.piyush.jawale@gmail.com>
+Date:   Sun Nov 24 15:23:37 2024 +0000
+
+    Deleted branch and folder
+
+commit 1460728f1769a364aa8bc0089d87778cc7538ee9
+Author: Piyush Jawale <it.a.41.piyush.jawale@gmail.com>
+Date:   Sun Nov 24 15:18:46 2024 +0000
+
+    Added git log and status Txt file
+
+commit ffe1ff721ffbb2f5344ff1174968bcad631941ea
+Author: Piyush Jawale <it.a.41.piyush.jawale@gmail.com>
+Date:   Sun Nov 24 15:04:30 2024 +0000
+
+    Added Code for Practical09
+
+commit a4415d4f05a5b3158dd158d981c8408b08020a35
+Author: Piyush Jawale <it.a.41.piyush.jawale@gmail.com>
+Date:   Sun Nov 24 14:50:18 2024 +0000
+
+    Code for Practical 08
+
+commit 18e3a4d2858ed62627289ecfd60560df788f8efb
+Author: Piyush Jawale <it.a.41.piyush.jawale@gmail.com>
+Date:   Sun Nov 24 14:32:43 2024 +0000
+
+    Code for Pratical 08 added
+
+commit 543b0154fe3d852d3c803fe1832d442b79b16ce2
+Author: Piyush Jawale <it.a.41.piyush.jawale@gmail.com>
+Date:   Sun Nov 24 14:23:07 2024 +0000
+
+    Code for Practical 6 added
+
+commit efa5fa264ca981550bfd8de2391a79e30f559883
+Author: Piyush Jawale <it.a.41.piyush.jawale@gmail.com>
+Date:   Sun Nov 24 14:16:56 2024 +0000
+
+    Code for Pratical 05 Added
+
+commit 7159ee4e8673bed906310e8a00d1f7e8a98b27e8
+Author: Piyush Jawale <it.a.41.piyush.jawale@gmail.com>
+Date:   Sun Nov 24 13:47:29 2024 +0000
+
+    Code for Pratical04 added
+
+commit 09e2aec687abafd2af16c78d05c6a1a2a8483308
+Author: Piyush Jawale <it.a.41.piyush.jawale@gmail.com>
+Date:   Sun Nov 24 13:38:48 2024 +0000
+
+    Added Pratical 03 code
+
+commit dcfd34e0e4ee095c69ff44bd34141cd78026f7b2
+Merge: 85344dd 1479881
+Author: Piyush Jawale <it.a.41.piyush.jawale@gmail.com>
+Date:   Sun Nov 24 13:29:33 2024 +0000
+
+    Merge branch 'Pratical01'
+
+commit 1479881b93fee8e7b8db3cc75467c0685a4f670a
+Author: Piyush Jawale <it.a.41.piyush.jawale@gmail.com>
+Date:   Sun Nov 24 13:27:03 2024 +0000
+
+    Pratical1 code added
+
+commit 85344ddcb75b3b824af5a57a16060b04431711b5
+Author: Piyush Jawale <it.a.41.piyush.jawale@gmail.com>
+Date:   Sun Nov 24 13:18:14 2024 +0000
+
+    Updated Readme file
+
+commit 822cdd40e660d06572fd6ebfd696c2140ce2ea8f
+Author: Piyush Jawale <it.a.41.piyush.jawale@gmail.com>
+Date:   Sun Nov 24 13:15:58 2024 +0000
+
+    Initial Commit
